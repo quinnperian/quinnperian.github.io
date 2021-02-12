@@ -17,6 +17,7 @@ show_sidebar: false        # show a sidebar instead of the usual header
 
 navigation:
   - {file: "index.html", icon: home}
+  - {file: "test.html", icon: test}
   - {file: "README.md", icon: address-card}
 
 external:                  # see http://fontawesome.com/icons
